@@ -1,6 +1,6 @@
 # Beer Regression
 
-A regression in beer consumption in the state of São Paulo
+A regression on beer consumption data in the state of São Paulo
 
 # Author
 
